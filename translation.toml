@@ -1,0 +1,4 @@
+name = "translator"
+description = "A simple To Do application written in PyScript."
+packages = ["speech_recognition"]
+interpreter = "3.12"
